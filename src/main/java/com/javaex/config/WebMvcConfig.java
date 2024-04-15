@@ -25,7 +25,7 @@ public class WebMvcConfig implements WebMvcConfigurer {
 	
 	@Override
 	public void addResourceHandlers(ResourceHandlerRegistry registry) {
-		//////fdfdsafasf////nnnff
+		//////fdfdsafasf////nnnffㅇㅇ
 		String saveDir;
 		
 		String osName = System.getProperty("os.name").toLowerCase();
